@@ -1,1 +1,1 @@
-# PacmanHomeWork
+Pacman Homework with A*Algorithm
